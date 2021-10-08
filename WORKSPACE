@@ -38,7 +38,7 @@ http_archive(
   build_file = "@tclap_build//file:downloaded",
 )
 
-hash = "ef2951d"
+hash = "f564c5c"
 http_archive(
   name = "libprim",
   urls = ["https://github.com/nicmcd/libprim/tarball/" + hash],
